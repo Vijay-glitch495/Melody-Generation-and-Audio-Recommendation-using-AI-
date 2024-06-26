@@ -1,2 +1,2 @@
-# 🎵🤖 Melody Generation and Audio Recommendation 🎶🔍 using AI 🧠🎧
-Leveraging state-of-the-art deep learning (DL) and machine learning (ML) technology to facilitate music discovery and composition. Our system composes beautiful harmonies and melodies and then suggests music to suit each user's taste and emotional state.
+# Frost Songs: Using AI to Generate Melodies from Poems
+## How Robert Frost's words can breathe life into computer-generated music.
